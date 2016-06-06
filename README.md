@@ -1,28 +1,90 @@
-# So Simple Theme
+** Taken Directly from [Elec-club](https://github.com/elec-club-iitb/elec-club-iitb.github.io)
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes/) -- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+# Website of Tinkerers' Lab, IIT Bombay
 
-## Notable features:
+## How to contribute
+Create a fork from the source on github and then clone your local repo.
+Clone your fork and add a tracking branch which can always have the last version of `tinkerers-laboratory.github.io`.
 
-* Compatible with Jekyll 3 and GitHub Pages.
-* Responsive templates. Looks good on mobile, tablet, and desktop devices.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page](http://mmistakes.github.io/so-simple-theme/404.html) to get you started.
-* Basic [search capabilities](https://github.com/mathaywarduk/jekyll-search)
-* Support for Disqus Comments
+    git clone https://github.com/username/tinkerers-laboratory.io
+    git remote add ec https://github.com/tinkerers-laboratory/tinkerers-laboratory.github.io
+    git fetch ec
+    git branch ec-master --track ec/master
+    git checkout ec-master
+    git pull
 
-![screenshot of So Simple Theme](http://mmistakes.github.io/so-simple-theme/images/so-simple-theme-preview.jpg)
+Create a branch from the last dev version of the tracking branch above.
+Let's call this branch `new_blog`.
 
-See a [live version of So Simple](http://mmistakes.github.io/so-simple-theme/) hosted on GitHub.
+    git branch new_blog
+    git checkout new_blog
 
----
+Add and commit and push your changes at your default remote which is usually called origin.
 
-## Getting Started
+    git add ...
+    git commit ...
+    git push origin new_blog
 
-So Simple takes advantage of Sass and data files to make customizing easier and requires Jekyll 3.x.
+Make sure your branch is udpated with the latest changes in ec/master. Online repositories prefer if you will rebase your branch to the updated changes, i.e. no extra commit of `Merge branch 'master'`.
 
-To learn how to install and use this theme check out the [Setup Guide](http://mmistakes.github.io/so-simple-theme/theme-setup/) for more information.
+    git checkout ec-master
+    git pull
+    git checkout new_blog
+    git rebase ec-master
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mmistakes/so-simple-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+If you see any conflicts you can resolve them using a standard and easy way.
+Open the file(s) and look for these pointers `>>>>`. They will show both changes which are conflicting.
+Remove what is unnecessary and commit and push your changes.
+
+    git commit -am "Resolved conflict"
+    git push origin new_blog
+
+After you have finished pushing all your changes you are ready to make a pull request from github. You just need to press the green button from your github repo and write a title and a small description of what you are sharing with us.
+
+After the pull request has arrived, the developers will review it and give you comments, and eventually merge it.
+
+
+## How to write a blog post
+
+Blog posts live in the `_posts` folder. They have specific filename format:
+
+    yyyy-mm-dd-title.<ext>
+
+`<title>` should be lowercase of the words of your title seperated by a '`-`' ( hyphen ). 
+
+`<ext>` should be the file-format extension. You can write the blog post in HTML ('html' extension) or Markdown ('md' extension). Markdown is a simple and intuitive markup language (preferrable over HTML). [Here's](https://daringfireball.net/projects/markdown/basics) a good tutorial for it. If you do use HTML, keep it to simple tags like `<h1>`, `<p>`, `<img>` and such.
+
+For eg.
+
+    2016-03-07-first-post.md
+
+Content of the file should include this Front Matter on top:
+
+    ---
+    layout: post
+    comments: true
+
+    assets_dir: /assets/first-post
+    title: First Post
+    excerpt: Small description for main page
+    author: Your Name
+    category: [Electronics, Robotics]
+    tags: [Raspberry Pi, Arduino]
+    ---
+
+        ...
+        content
+        ...
+
+Change the `title`, `excerpt`, `author`, `category` and `tags` field appropriately. They will be used to generate title and description of your blog on the homepage, and will add it to corresponding category and tag-wise pages.
+
+There is no need to add title or date in the content, they will be added automatically.
+
+If you want to add images and/or other files, put them in a folder named `/assets/<title>`, eg. something like `/assets/first-post`. Make sure to add this folder name to `assets_dir` field like shown in the example. Then when linking to the images/files write the link in this format `{{page.assets_dir}}/image.jpg}}`. A markdown example would be: 
+
+    [This is a pdf]({{page.assets_dir}}/file.pdf)
+    ![This is an image]({{page.assets_dir}}/image.jpg)
+
+So just fork, add a post and send a PR, or just push it directly here if you have access!
+
+## Theme
