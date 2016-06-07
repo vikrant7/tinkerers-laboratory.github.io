@@ -3,17 +3,13 @@ layout: page
 title: Contact Information
 excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
-image:
-  feature: makerspaces-header.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 <center><h3>Technicians</h3></center>
 
-Name | Phone Number | Email | Photo
+Name | Phone Number | Email | 
 :---- | :---- | :---- | :----
-Rohit Chile | 9029936240 | [chile.rohit@gmail.com](mailto:chile.rohit@gmail.com) | <img src="/images/rohit.jpg" alt="Smiley face" height="50" width="42">
+Rohit Chile | 9029936240 | [chile.rohit@gmail.com](mailto:chile.rohit@gmail.com) | <img src="/images/rohit.jpg" alt="Smiley face" height="100" width="84">
 Vinayak Shelar | 9619804131 | [vinayakshelar78@gmail.com](mailto:vinayakshelar78@gmail.com) | <img src="/images/vinayak.jpg" alt="Smiley face" height="50" width="42">
 
 <center><h3>Managers and convenors</h3></center>
