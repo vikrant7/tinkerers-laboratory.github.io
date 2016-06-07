@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: Tinkerers' Laboratory
 locale: en_US
-description: Describe your website here.
+description: Tinker Eat Sleep Repeat!
 logo: site-logo.png
 search: true
 url: http://tinkerers-laboratory.github.io
