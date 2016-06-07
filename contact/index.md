@@ -21,5 +21,5 @@ Vinayak Shelar | 9619804131 | vinayakshelar78@gmail.com | <img src="/images/vina
 Name | Phone Number | Email | Photo
 ---- | ---- | ---- | ----
 Naman Gupta | 7738723389/8989409444 | namang.iitb@gmail.com | <img src="/images/naman.jpg" alt="Smiley face" height="42" width="42">
-Rakshit Jain | 8828294852 | Please fill it Rakshit | <img src="/images/rakshit.jpg" alt="Smiley face" height="42" width="42">
+Rakshit Jain | 8828294852 | [rakshit28081996@gmail.com](mailto:rakshit28081996@gmail.com) | <img src="/images/rakshit.jpg" alt="Smiley face" height="42" width="42">
 Aadhavan Nambhi | 8828292112/9659365368 | aadhavannambhi.m@gmail.com | <img src="/images/aadhavan.jpg" alt="Smiley face" height="42" width="42">
