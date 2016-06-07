@@ -36,13 +36,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Tinkerer's Laboratory
   avatar: bio-photo.jpg
-  email: you@email.com
-  disqus-shortname:
+  email: tinkererslaboratory@gmail.com
+  disqus-shortname: tinkererslab
   twitter: #username
-  facebook: #username
-  github: #username
+  facebook: tinkererIITB
+  github: tinkererslaboratory
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
