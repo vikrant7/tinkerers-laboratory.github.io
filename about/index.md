@@ -5,18 +5,23 @@ excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
-<center><a href=""><b>Tinkerers' Laboratory</b></a> is a student run, one of a kind facility in Indian Institute of Technology Bombay.</center>
+Tinkerers’ Lab (*TL*)  is a **24x7** technical facility open to all IITB students to encourage them to go beyond their curriculum and explore technology as hobby, as fun, and start tinkering, building and innovating to convert creative ideas into actual engineering products.
 
-It is being long felt that the youngsters entering the field of engineering education in India are not as facile and deft with objects and things of everyday life as their peers from the developed countries. It has emerged that a significant number of Indian youth are not sufficiently "hands-on", and this missing ingredient often slows down the pace of technology based innovation. In an endeavour towards bridging this gap, Indian Institute of Technology Bombay (IIT Bombay), has  established a Tinkerers' Laboratory that will provide an enabling physical environment for young engineering students to go hands on and  give form and expression to their innovative and creative natures.
- 
-The lab was inaugurated on March 19, 2014 by Dr. R. Chidambaram, Principal Scientific Advisor to the Government of India, in the presence of Prof. Devang Khakhar, Director, IIT Bombay, Prof. U.A. Yajnik, Dean, Students Affairs, IIT Bombay, Prof. Ravi Sinha, Dean, Alumni & Corporate Relations, IIT Bomaby, among others. Speaking at the occasion, Dr. Chidambaram, said, "One of the aims of the Tinkerers' Lab is to empower students to take systems apart, examine the component parts and rebuilding back the original systems. It will also help the students to put together new systems,  to convert creative ideas into actual engineering products." He moreover, suggested that Design innovation may be incorporated into the new technology development. "Design innovation can add exceptional value to product innovation and you have an excellent Industrial Design Centre at IIT Bombay. I hope the students using Tinkerers' Lab are able to derive benefit from the Design Centre as well," he added.
- 
-The Lab has been established with a generous funding received from the 1975 alumni batch of the Institute, who have pledged a sum of Rs 2 crore towards it. The '75 batch alumni team will moreover, provide mentoring, run workshops and help organize lectures by famous innovators from India and abroad, for the benefit of IIT Bombay students. According to Mr. Hemant Kanakia, a 1975 batch alumnus of the Institute and a successful entrepreneur based in USA, "Our counterparts in US and Europe learn to build and tinker with systems from an early age. That gives them an edge when we compete with them in our professional lives. Innovators like Steve Jobs of Apple and Mark Zuckerberg of Facebook developed their innovative ideas while experimenting as students, whereas we at IIT usually learn how to excel within confined bounds of curriculum and examination system. I believe that to be relevant in technology game, IITs have to meet the challenge of how to motivate their students to build things, to take initiatives and to learn to innovate by building."
- 
-The Tinkerers' Lab is being set up with an intention of promoting experimentation, creativity and innovation, and will be equipped with latest workstations of electrical and mechanical tools including power mechanical machines like Lathe, Milling, Welding, Drilling, electronic test instruments, 3-D modelling software, Small PCB manufacturing unit, several workbenches, several single board computers such as Ardunio boards, etc. It will moreover, allow students to borrow spare parts and electrical circuits from its store and would provide latest mechanical and electrical tools to build and to test electro-mechanical systems from small to big projects like robots, flying machines, and biometric systems, to cite few examples.
- 
-The facility, which is managed by the students (Students' Technical Activities Body), is open to all students of the Institute, irrespective of their discipline, and is accessible 24x7. It will provide the freedom and facility to experiment, exercise imaginations and build novel systems. Students may begin by taking apart systems and learning how it works and by putting the knowledge they gain to build innovative advanced systems. 
+The Lab was set up with support from the class of 1975 has been in operation since March 2014 with the idea that it will complement the engineering education at IITB with some much needed hands on tinkering and thus foster innovation.
 
+>“If it can be imagined, it can be made!”
 
-<font size="5" color = "grey">I hope this will aid us in generating a culture, where students work in the labs, do things on their own and also learn in the process," said, Prof. Khakhar.</font>
+The lab inventory includes a wide variety of equipment including CNC Machines, 3D Printer, Heavy Machines like Lathe, Milling, Drill, necessary Electronics equipment and the software assistance.
+   
+Since its inception the tiny 700 Square foot lab has seen huge participation :-
+* Over 1000 students have used the lab,
+* Across Departments, year of study or academic program….
+* For very diverse projects, from course projects, B-Tech Projects, Hobby projects, DIYs to Start-ups.
+* 3 start-ups have already emerged from the Tinkerer’s Lab
+* Large participation from the freshman batch of last two years.
 
+#### Lab Management
+
+Tinkerers’ Lab is managed by the students under the guidance of two faculty advisors. The students have liberty in procuring all necessary equipment and consumables required in the laboratory.
+
+There is a dedicated student team to ensure the well-being of the lab. Along-with there are two permanent Technicians who are available in the lab to look after the lab and provide necessary technical assistance to students working at the lab.  
