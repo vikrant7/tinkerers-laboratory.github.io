@@ -12,7 +12,7 @@ Name | Phone Number | Email |
 Rohit Chile | 9029936240 | [chile.rohit@gmail.com](mailto:chile.rohit@gmail.com) | <img src="/images/rohit.jpg" alt="Smiley face" height="100" width="84">
 Vinayak Shelar | 9619804131 | [vinayakshelar78@gmail.com](mailto:vinayakshelar78@gmail.com) | <img src="/images/vinayak.jpg" alt="Smiley face" height="100" width="84">
 
-<center><h3>Managers and convenors</h3></center>
+<center><h3>Managers and Convenors</h3></center>
 
 Name | Phone Number | Email | 
 :---- | :---- | :---- | :----

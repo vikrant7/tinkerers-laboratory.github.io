@@ -11,18 +11,19 @@
 
 #- title: Blog
 #  url: /blog/
+- title: TL Talks
+  url: /tl_talks/
 
 - title: Gallery
   url: /gallery/
 
-- title: Inventory
+- title: Resources
   url: /inventory/
-
-- title: TL Talks
-  url: /tl_talks/
-
-#- title: Search
-#  url: /search/
 
 - title: Contact
   url: /contact/
+
+- title: Search
+  url: /search/
+
+
