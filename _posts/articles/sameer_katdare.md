@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 author: NamanGupta
 title: TL Talks
 excerpt: "So Simple is a responsive Jekyll theme for your words and images."
