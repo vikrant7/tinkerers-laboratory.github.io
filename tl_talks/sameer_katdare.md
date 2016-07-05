@@ -5,11 +5,11 @@ excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
-#### Engineering Lessons from a disaster - Bhopal Gas Tragedy
-#### Mr. Sameer Katdare
-*Vice President (Technical), Alkyl Amines Chemical Limited*
+-> #### Engineering Lessons from a disaster - Bhopal Gas Tragedy <-
+-> #### Mr. Sameer Katdare <-
+-> *Vice President (Technical), Alkyl Amines Chemical Limited* <-
 
-*April 7th, 2016*
+-> *April 7th, 2016* <-
 
 ##### About the Speaker
 After completing his graduation in Chemical Engineering from IIT Bombay in 1975, Mr. Sameer Katdare joined the Process Department of Uhde India Ltd., where he spent more than 12 years designing and commissioning various chemical plants. At present, Mr. Katdare is Vice President (Technical) with Alkyl Amines Chemicals Ltd. and incharge of the R&D/Technology Development and Project Engineering departments, focusing on commercializing new manufacturing processes for a range of organic chemicals.
