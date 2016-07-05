@@ -5,8 +5,8 @@ excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
-#### Engineering Lessons from a disaster - Bhopal Gas Tragedy
-#### Mr. Sameer Katdare
+#### *Engineering Lessons from a disaster - Bhopal Gas Tragedy | Mr. Sameer Katdare*
+
 *Vice President (Technical), Alkyl Amines Chemical Limited*
 
 *April 7th, 2016*
