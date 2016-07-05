@@ -23,3 +23,7 @@ The talk started with a brief discussion on the market value and distribution of
 
 ##### Birthday Celebration
 Tinkerers’ Lab celebrated its birthday on April 7th. A cake was cut to commemorate the event. The event also served as a platform to announce the addition of the latest club to the Students’ Technical Activities Body(STAB) family, the “Biotech Tech Club”, and the introduction of the new STAB team, for the year 2016-17.
+
+##### Video
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/oWhVfiCn2JQ" frameborder="0" allowfullscreen></iframe>
