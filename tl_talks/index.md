@@ -1,8 +1,9 @@
 ---
 layout: page
 title: TL Talks
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+excerpt: "Tinkerers' Laboratory Talks"
+search_omit: true
+
 ---
 
 ‘TL Talks’ have begun with the purpose of taking ahead the very spirit of innovation, by acquainting students with great technologies and the brains behind them, to inspire students to find the inventor within them.
