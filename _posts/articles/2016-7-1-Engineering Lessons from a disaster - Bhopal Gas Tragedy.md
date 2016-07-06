@@ -3,7 +3,6 @@ layout: page
 author: NamanGupta
 title: Engineering Lessons from a disaster - Bhopal Gas Tragedy
 excerpt: "Talk on Chemical Industries in India and Lessons From Bhopal Gas tragedy"
-modified: 2014-08-08T19:44:38.564948-04:00
 categories: tl_talks
 comments: true
 share: true
