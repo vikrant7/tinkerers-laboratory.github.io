@@ -364,54 +364,74 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
   </style>
 </head>
 <body>
-    <div class="progress">
-    <div class="progress-bar"></div>
+  <div class="progress">
+    <div class="progress-bar">
+    </div>
   </div>
 
-  <div class="slide" id="slide-1">
-    <section class="slide-content"><h1 id="cleaver-101">Cleaver 101</h1>
-<h2 id="a-first-look-at-quick-html-presentations">A first look at quick HTML presentations</h2>
-</section>
-  </div>
-  <div class="slide hidden" id="slide-2">
-    <section class="slide-content"><h3 id="a-textual-example">A textual example</h3>
-<p>Content can be written in <strong>Markdown!</strong> New lines no longer need two angle brackets.</p>
-<p>This will be in a separate paragraph</p>
-</section>
-  </div>
-  <div class="slide hidden" id="slide-3">
-    <section class="slide-content"><h3 id="a-list-of-things">A list of things</h3>
-<ul>
-<li>Item 1</li>
-<li>Item B</li>
-<li>Item gamma</li>
-</ul>
-<p>No need for multiple templates!</p>
-</section>
-  </div>
-  <div class="slide hidden author-slide" id="slide-4">
-    <section class="slide-content"><div class="author">
-  <h1 class="name">Jordan Scales</h1>
-    <h3 class="twitter">
-      <a href="http://twitter.com/@jdan">@jdan</a>
-    </h3>
-    <h3 class="url">
-      <a href="http://jordanscales.com">http://jordanscales.com</a>
-    </h3>
+<div class="slide" id="slide-1">
+  <section class="slide-content">
+    <h1 id="cleaver-101">
+        Cleaver 101
+    </h1>
+
+    <h2 id="a-first-look-at-quick-html-presentations">
+      A first look at quick HTML presentations
+    </h2>
+  </section>
 </div>
-</section>
-  </div>
+<div class="slide hidden" id="slide-2">
+  <section class="slide-content">
+    <h3 id="a-textual-example">
+      A textual example
+    </h3>
+      <p>
+        Content can be written in <strong>Markdown!</strong> New lines no longer need two angle brackets.
+      </p>
+      <p>
+        This will be in a separate paragraph
+      </p>
+  </section>
+</div>
+<div class="slide hidden" id="slide-3">
+  <section class="slide-content">
+    <h3 id="a-list-of-things">
+      A list of things
+    </h3>
+    <ul>
+      <li>Item 1</li>
+      <li>Item B</li>
+      <li>Item gamma</li>
+    </ul>
+    <p>
+      No need for multiple templates!
+    </p>
+  </section>
+</div>
+<div class="slide hidden author-slide" id="slide-4">
+  <section class="slide-content">
+    <div class="author">
+      <h1 class="name">Jordan Scales</h1>
+      <h3 class="twitter">
+        <a href="http://twitter.com/@jdan">@jdan</a>
+      </h3>
+      <h3 class="url">
+        <a href="http://jordanscales.com">http://jordanscales.com</a>
+      </h3>
+    </div>
+  </section>
+</div>
 
-  <div class="controls">
-    <div class="arrow prev"></div>
-    <div class="arrow next"></div>
-  </div>
+<div class="controls">
+  <div class="arrow prev"></div>
+  <div class="arrow next"></div>
+</div>
 
 
-  <script type="text/javascript">
-    /**
- * Returns the current page number of the presentation.
- */
+<script type="text/javascript">
+  /**
+* Returns the current page number of the presentation.
+*/
 function currentPosition() {
   return parseInt(document.querySelector('.slide:not(.hidden)').id.slice(6));
 }
