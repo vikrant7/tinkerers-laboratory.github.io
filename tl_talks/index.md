@@ -7,14 +7,9 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 ‘TL Talks’ have begun with the purpose of taking ahead the very spirit of innovation, by acquainting students with great technologies and the brains behind them, to inspire students to find the inventor within them.
 
-> #####  [What is LiFi? | Prof. Harald Haas](harald_haas)
-*Chair of Mobile Communications at the University of Edinburgh*
 
-> #####  [Evolution of the Telecom industry | Mr. Dhananjay Saheba](dhananjay_saheba)
-*Managing Director, iJunxion*
-
-> #####  [NASA New Horizons Mission and Beyond | Dr. Henry Throop](henry_throop)
-*Senior Scientist, Planetary Science Institute in Tucson, Arizona, USA*
-
-> #####  [Engineering Lessons from a disaster - Bhopal Gas Tragedy | Mr. Sameer Katdare](sameer_katdare)
-*Vice President (Technical), Alkyl Amines Chemical Limited*
+<ul class="post-list">
+{% for post in site.categories.articles %}
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
+{% endfor %}
+</ul>
