@@ -13,12 +13,7 @@ The Lab was set up with support from the class of 1975 has been in operation sin
 
 The lab inventory includes a wide variety of equipment including CNC Machines, 3D Printer, Heavy Machines like Lathe, Milling, Drill, necessary Electronics equipment and the software assistance.
    
-Since its inception the tiny 700 Square foot lab has seen huge participation:
-
-- Across Departments, year of study or academic program….
-- For very diverse projects, from course projects, B-Tech Projects, Hobby projects, DIYs to Start-ups.
-- 3 start-ups have already emerged from the Tinkerer’s Lab
-- Large participation from the freshman batch of last two years.
+Since its inception the tiny 700 Square foot lab has seen huge participation across all departments, year of study or academic program, for very diverse projects - from course projects, B-Tech Projects, Hobby projects, DIYs to Start-ups.
 
 #### Lab Management
 
