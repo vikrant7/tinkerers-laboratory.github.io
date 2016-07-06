@@ -6,11 +6,11 @@
 - title: About
   url: /about/
 
-#- title: Articles
-#  url: /articles/
+- title: Articles
+  url: /articles/
 
-#- title: Blog
-#  url: /blog/
+- title: Blog
+  url: /blog/
 - title: TL Talks
   url: /tl_talks/
 
@@ -25,5 +25,3 @@
 
 - title: Search
   url: /search/
-
-
