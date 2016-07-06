@@ -5,9 +5,11 @@ excerpt: "A simple and clean responsive Jekyll theme for words and photos."
 search_omit: true
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;A Tinkerer is someone who enjoys experimenting. We, at Tinkerers' Laboratory are always open for such people with an aim to grow innovators and thinkers, converting their creative ideas into actual engineering products. For them to do whatever they love to do, let them have limitless hands-on experience and spend hours tinkering without any worries. 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Tinkerer is someone who enjoys experimenting. We, at Tinkerers' Laboratory are always open for such people with an aim to grow innovators and thinkers, converting their creative ideas into actual engineering products. For them to do whatever they love to do, let them have limitless hands-on experience and spend hours tinkering without any worries. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;So, if you are turned on by machines and technology, Tinkerers' Laboratory is the place to be.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;So, if you are turned on by machines and technology, Tinkerers' Laboratory is the place to be.
+</p>
 
 ---
 <p align="center" style="font-size:20px"><b><font size="6">Why Tinkerers’ Lab!?</font></b></p>
