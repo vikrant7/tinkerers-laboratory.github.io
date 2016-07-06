@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Evolution of the Telecom industry
 author: NamanGupta
 excerpt: "Talk by Mr. Dhananjay Saheba on Telecom industry in India and it's Evolution"

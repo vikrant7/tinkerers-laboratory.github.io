@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 author: NamanGupta
 title: Engineering Lessons from a disaster - Bhopal Gas Tragedy
 excerpt: "Talk on Chemical Industries in India and Lessons From Bhopal Gas tragedy"
