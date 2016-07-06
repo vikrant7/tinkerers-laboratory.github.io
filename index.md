@@ -21,5 +21,5 @@ search_omit: true
 <img src="/images/innovation.jpeg" alt="Innovation Hub" height="100" width="100">
 <p><b>Innovation Hub</b></p>
 <p>The TL environment encourages the students to go beyond their curriculum and explore technology as a hobby, as fun, and start tinkering, building and innovating to convert creative ideas into actual engineering products.</p><br>
-<img src="/images/evolution_tinkerer.jpg" alt="Innovation Hub" height="250" width="250">
+<img src="/images/evolution_tinkerer.jpg" alt="Innovation Hub" height="350" width="350">
 </center>
