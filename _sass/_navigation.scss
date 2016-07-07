@@ -50,11 +50,11 @@
   ul li ul {
     visibility: hidden;
     position: absolute;
-    transition: visibility 0.65s ease-in;
+    transition: visibility 1s ease-in;
     display: inline-block;
     width: 100%;
     vertical-align: top;
-    margin: 0 0 50px;
+    margin: 0 0 0px;
     padding: 4px 20px;
     background-color: $black;
     @include media($medium) {
