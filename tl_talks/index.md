@@ -8,7 +8,7 @@ search_omit: true
 
 ‘TL Talks’ have begun with the purpose of taking ahead the very spirit of innovation, by acquainting students with great technologies and the brains behind them, to inspire students to find the inventor within them.
 
-
+---
 <ul class="post-list">
 {% for post in site.categories.tl_talks %}
   <li>
