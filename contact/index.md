@@ -28,8 +28,7 @@ Aadhavan Nambhi | 8828292112/9659365368 | [aadhavannambhi.m@gmail.com](mailto:aa
 <style type="text/css">
 
 .bio {
-		@include rounded(100px);
-		@include clearfix;
+		border-radius: 100px;
 	}
 
 </style>
