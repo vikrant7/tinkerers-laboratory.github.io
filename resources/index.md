@@ -41,9 +41,13 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 #left{float: left;}
 #right{float: right;}
-#left, #right, #bottom, #top {
+#left, #right, #bottom{
 	height: 200px;
 	width: 350px;
 	padding: 5px 5px 5px 5px;
 }
+#top, #bottom{
+	margin: 5px 5px 5px 5px;
+}
+
 </style>
