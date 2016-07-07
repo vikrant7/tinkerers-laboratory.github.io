@@ -21,6 +21,7 @@ iJunxion.
 
 ##### Abstract
 A brief description of the talk is given below:
+
 - Bell Labs and how telecommunication was born.
 - Various technologies and telecom services existing initially around the world and how they were improvised was discussed briefly.
 - Evolution of telecommunication in India was described in detail along with various aspects of related engineering fields.
