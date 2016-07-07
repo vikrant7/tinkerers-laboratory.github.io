@@ -39,12 +39,11 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 <style type="text/css">
 
-#left{float: left;}
-#right{float: right;}
+#left{float: left;padding: 5px 5px 5px 5px;}
+#right{float: right;padding: 5px 5px 5px 5px;}
 #left, #right, #bottom {
 	height: 200px;
 	width: 350px;
-	padding: 5px 5px 5px 5px;
 }
 #top{margin:0px 0px 50px 0px;}
 #family{
@@ -53,5 +52,6 @@ modified: 2014-08-08T19:44:38.564948-04:00
 }
 #bottom{
 	position: relative;
+	padding: 50px 5px 5px 5px;
 }
 </style>
