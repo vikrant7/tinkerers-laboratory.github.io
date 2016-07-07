@@ -19,11 +19,11 @@
   url: /gallery/
 
 - title: Resources
-  url: #
+  url: /resources/
   sublink:
     - subtitle: Inventory
       suburl: /inventory/
-    - subtitle: Machine Documentation
+    - subtitle: Equipment Documentation
       suburl: /documentation/
     - subtitle: Wishlist
       suburl: /wishlist/
