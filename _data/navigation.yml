@@ -19,15 +19,20 @@
   url: /gallery/
 
 - title: Resources
-  url: /inventory/
   sublink:
     - subtitle: Inventory
       suburl: /inventory/
-    - subtitle: Whatever it is
-      suburl: /inventory/
+    - subtitle: Machine Documentation
+      suburl: /documentation/
+    - subtitle: Wishlist
+      suburl: /wishlist/
 
 - title: Contact
-  url: /contact/
+  sublink:
+    - subtitle: People
+      suburl: /contact/
+    - subtitle: Feedback
+      suburl: /feedback/
 
 - title: Search
   url: /search/
