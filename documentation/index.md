@@ -5,11 +5,11 @@ excerpt: "Support blogs for Equipments"
 search_omit: true
 ---
 
-Tinkerers' Lab boasts an inventory ranging from tiny resistors to sophisticated machines like CNC Machines, 3D Printer, Heavy Machines like Lathe, Milling, Drill and necessary software assistance. For some of these, support documents have been prepared by generous inputs of lab users, to assist other users in using them.
+Tinkerers' Lab boasts an inventory ranging from tiny resistors to sophisticated machines like CNC Machines, 3D Printer, Heavy Machines like Lathe, Milling, Drill and necessary software assistance. For some of these, support documents have been prepared by generous inputs of lab users, to assist other users.
 
 ---
 <ul class="post-list">
-{% for post in site.categories.tl_talks %}
+{% for post in site.categories.documentation %}
   <li>
   	<documentation>
   		<a href="{{ site.url }}{{ post.url }}">
