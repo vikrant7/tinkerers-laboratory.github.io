@@ -6,7 +6,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
 ---
-<div>
+<div id="family">
 	<div id="top">
 		<div id="left">
 			<center>
@@ -47,4 +47,11 @@ modified: 2014-08-08T19:44:38.564948-04:00
 	padding: 5px 5px 5px 5px;
 }
 #top{margin:0px 0px 5px 0px;}
+#family{
+	height: 450px;
+	padding: 10px 0px 10px 0px;
+}
+#bottom{
+	position: relative;
+}
 </style>
