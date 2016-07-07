@@ -61,11 +61,11 @@ modified: 2014-08-08T19:44:38.564948-04:00
 }
 #top{
 	position: relative;
-	margin:0px 0px 150px 0px;
+	margin:0px 0px 200px 0px;
 	clear: both;
 }
 #family{
-	height: 650px;
+	height: 500px;
 	padding: 10px 0px 10px 0px;
 }
 #bottom{
