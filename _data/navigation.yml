@@ -19,6 +19,7 @@
   url: /gallery/
 
 - title: Resources
+  url: #
   sublink:
     - subtitle: Inventory
       suburl: /inventory/
