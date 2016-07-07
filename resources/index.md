@@ -45,14 +45,22 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 <style type="text/css">
 
-#left{float: left;padding: 5px 5px 5px 5px;}
-#right{float: right;padding: 5px 5px 5px 5px;}
+#left{
+	float: left;
+	padding: 5px 5px 5px 5px;
+	clear: left;
+}
+#right{
+	float: right;
+	padding: 5px 5px 5px 5px;
+	clear: right;
+}
 #left, #right, #bottom {
 	height: 200px;
 	width: 350px;
 }
 #top{
-	position: absolute;
+	position: relative;
 	margin:0px 0px 50px 0px;
 	clear: both;
 }
@@ -61,7 +69,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 	padding: 10px 0px 10px 0px;
 }
 #bottom{
-	position: absolute;
+	position: relative;
 	padding: 50px 5px 5px 5px;
 	margin: 50px 0px 10px 0px;
 }
