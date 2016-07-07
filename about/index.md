@@ -37,6 +37,3 @@ There is a dedicated student team to ensure the well-being of the lab. Along-wit
 - Popular sessions like How Things Work, where people open things and tinker with them
 - 3 start-ups emerged from TL already
 - Tinkerers’ Laboratory presentation by Chirag Shetty praised at GBF 2015
-
-
-

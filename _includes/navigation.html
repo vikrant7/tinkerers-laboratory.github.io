@@ -7,7 +7,20 @@
 		        {% else %}
 		        {% assign domain = site.url %}
 		    {% endif %}
-		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a>
+		    	{% if link.sublink %}
+		    	<ul>
+		    	{% for sub in link.sublink %}
+		    		{% if sub.suburl contains 'http' %}
+		        		{% assign domain = '' %}
+		        		{% else %}
+		        		{% assign domain = site.url %}
+		    		{% endif %}
+		    		<li><a href="{{ domain }}{{ sub.suburl }}" {% if sub.suburl contains 'http' %}target="_blank"{% endif %}>{{ sub.subtitle }}</a></li>
+		    	{% endfor %}
+		    	</ul>
+		    	{% endif %}
+		    </li>
 		  {% endfor %}
 	    </ul>
 	</nav>

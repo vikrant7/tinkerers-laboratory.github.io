@@ -20,6 +20,11 @@
 
 - title: Resources
   url: /inventory/
+  sublink:
+    - subtitle: Inventory
+      suburl: /inventory/
+    - subtitle: Whatever it is
+      suburl: /inventory/
 
 - title: Contact
   url: /contact/
