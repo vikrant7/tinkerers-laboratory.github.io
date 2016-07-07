@@ -28,14 +28,8 @@ Aadhavan Nambhi | 8828292112/9659365368 | [aadhavannambhi.m@gmail.com](mailto:aa
 <style type="text/css">
 
 .bio {
-	display: none;
-	@include media($large) {
-		display: block;
-		width: 100px;
-		height: 100px;
-		@include rounded(150px);
+		@include rounded(100px);
 		@include clearfix;
 	}
-}
 
 </style>
