@@ -7,22 +7,39 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 ---
 
-<div style="float: left;">
-<img src="/images/inventory.png" alt="Inventory" height="100" width="100"><br>
-<p><b>Inventory</b></p>
-<p><b>Tinkerers' Laboratory</b> is a student run, one of a kind facility at IIT Bombay. It's inventory list includes a large number of Electrical and Mechanical components.</p>
+<div id="left">
+	<center>
+		<a href="/inventory"><img src="/images/inventory.png" alt="Inventory" height="100" width="100"></a>
+		<p><b>Inventory</b></p>
+		<p>Tinkerers' Lab boasts an inventory ranging from tiny resistors to sophisticated machines like CNC Machines, 3D Printer, Heavy Machines like Lathe, Milling, Drill and necessary software assistance.</p>
+	</center>
 </div>
 <br>
-<div style="float: right;">
-<img src="/images/documentation.png" alt="Equipment Documentation" height="100" width="100">
-<p><b>Equipment Documentation</b></p>
-<p>Support documents for somr of the equipments have been prepared by generous inputs of lab users, to assist other users.</p><br>
+<div id="right">
+	<center>
+		<a href="/documentation"><img src="/images/documentation.png" alt="Equipment Documentation" height="100" width="100"></a>
+		<p><b>Equipment Documentation</b></p>
+		<p>Support documents for some of the equipments have been prepared by generous inputs of lab users, to assist other users.</p><br>
+	</center>
 </div>
 <br>
-<div align="middle">
-<img src="/images/wishlist.png" alt="Wishlist" height="100" width="100">
-<p><b>Wishlist</b></p>
-<p>If you wish to have something at Tinkerer's Lab, feel free to drop a message.</p>
+<div id="bottom" align="middle">
+	<center>
+		<a href="/wishlist"><img src="/images/wishlist.png" alt="Wishlist" height="100" width="100"></a>
+		<p><b>Wishlist</b></p>
+		<p>If you wish to have something at Tinkerer's Lab, feel free to drop a message.</p>
+	</center>
 </div>
 <br>
+
 ---
+
+<style type="text/css">
+
+#left{float: left;}
+#right{float: right;}
+#left, #right, #bottom {
+	height: 200px;
+	width: 350px;
+}
+</style>
