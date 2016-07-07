@@ -52,7 +52,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 	width: 350px;
 }
 #top{
-	position: relative;
+	position: absolute;
 	margin:0px 0px 50px 0px;
 }
 #family{
@@ -60,7 +60,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 	padding: 10px 0px 10px 0px;
 }
 #bottom{
-	position: relative;
+	position: absolute;
 	padding: 50px 5px 5px 5px;
 	margin: 50px 0px 10px 0px;
 }
