@@ -46,7 +46,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 	width: 350px;
 	padding: 5px 5px 5px 5px;
 }
-#top{margin:0px 0px 5px 0px;}
+#top{margin:0px 0px 50px 0px;}
 #family{
 	height: 450px;
 	padding: 10px 0px 10px 0px;
