@@ -48,33 +48,32 @@
     }
   }
   ul li ul {
-    visibility: hidden;
-    position: relative;
-    display: inline-block;
-    left: 0;
-    width: 100%;
-    vertical-align: top;
-    margin-left: 0;
-    padding: 4px 20px;
-    background-color: $black;
-    @include media($medium) {
-      width: auto;
-      @include rounded(0 0 10px 10px);
-    }
-    @include clearfix;
- }
- ul li ul li:hover {
+     visibility: hidden;
+     position: absolute;
+     transition: visibility 0.65s ease-in;
+     display: inline-block;
+     width: 100%;
+     vertical-align: top;
+     margin: 0 0 50px;
+     padding: 4px 20px;
+     background-color: $black;
+     @include media($medium) {
+       width: auto;
+       @include rounded(0 0 10px 10px);
+     }
+     @include clearfix;
+  }
+  ul li ul li:hover {
     @include box-shadow($shadow: inset 0 0 1px $white);
- }
-}
-.navigation-wrapper ul li:hover > ul,
-.navigation-wrapper ul li ul:hover {
-   visibility: visible;
-   transition: visibility 1s;
-}
-.navigation-wrapper ul li ul li {
-    clear: both;  
-}
+  }
+  }
+  .navigation-wrapper ul li:hover > ul,
+  .navigation-wrapper ul li ul:hover {
+    visibility: visible;
+  }
+  .navigation-wrapper ul li ul li {
+     clear: both;  
+  }
 
 /*
    Responsive navigation toggle
