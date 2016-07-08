@@ -65,7 +65,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 	clear: both;
 }
 #family{
-	height: 550px;
+	height: 600px;
 	padding: 10px 0px 10px 0px;
 }
 #bottom{
