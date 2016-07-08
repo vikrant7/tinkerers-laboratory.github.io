@@ -30,7 +30,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 	<br>
 	<center>
 		<a href="/wishlist">
-			<div id="bottom">
+			<div id="bottom" width="350">
 				<center>
 					<img src="/images/wishlist.png" alt="Wishlist" height="100" width="100">
 					<p><b>Wishlist</b></p>
@@ -61,7 +61,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 }
 #top{
 	position: relative;
-	margin:0px 0px 200px 0px;
+	margin:0px 0px 250px 0px;
 	clear: both;
 }
 #family{
