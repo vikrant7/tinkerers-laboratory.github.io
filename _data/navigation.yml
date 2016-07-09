@@ -20,20 +20,21 @@
 
 - title: Resources
   url: /resources/
-  sublink:
-    - subtitle: Inventory
-      suburl: /inventory/
-    - subtitle: Equipment Documentation
-      suburl: /documentation/
-    - subtitle: Wishlist
-      suburl: /wishlist/
+  #sublink:
+  #  - subtitle: Inventory
+  #    suburl: /inventory/
+  #  - subtitle: Equipment Documentation
+  #    suburl: /documentation/
+  #  - subtitle: Wishlist
+  #    suburl: /wishlist/
 
 - title: Contact
-  sublink:
-    - subtitle: People
-      suburl: /contact/
-    - subtitle: Feedback
-      suburl: /feedback/
+  url: /contact/
+  #sublink:
+  #  - subtitle: People
+  #    suburl: /contact/
+  #  - subtitle: Feedback
+  #    suburl: /feedback/
 
 - title: Search
   url: /search/

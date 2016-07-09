@@ -34,4 +34,4 @@ Tinkerers’ Lab is managed by the students under the guidance of two faculty ad
 - Immense use of lab during Institute Technical Summer Projects, XLR8, Line Follower, RC Planes
 - Popular sessions like How Things Work, where people open things and tinker with them
 - 3 start-ups emerged from TL already
-- Tinkerers’ Laboratory presentation by Chirag Shetty praised at GBF 2015
+- TL Talks have received immense response with prestigious speakers like Prof. Harald Haas, Prof. Henry Throop and others
