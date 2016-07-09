@@ -8,7 +8,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
 <center>
-	<a href="/contact">
+	<a href="/people">
 		<img src="/images/contact.png" alt="People" height="100" width="100">
 		<p><b>People</b></p>
 		<p>Contact the Tinkerers' Lab Team</p>
