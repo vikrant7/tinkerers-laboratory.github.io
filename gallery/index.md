@@ -4,14 +4,7 @@ title: Gallery
 excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
 carousel:
-  - image: /images/gallery/arduino_workshop.JPG
-  - image: /images/gallery/equipment.jpg
-  - image: /images/gallery/foundation_day.JPG
-  - image: /images/gallery/htw.JPG
-  - image: /images/gallery/inauguration.JPG
-  - image: /images/gallery/lab_others.jpg
-  - image: /images/gallery/tl_talk.jpg
-  - image: /images/gallery/visits.JPG
+
 ---
 
 <link rel="stylesheet" href="flexslider.css" type="text/css">
