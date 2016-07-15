@@ -5,7 +5,7 @@ excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
-<img align="middle" src="/images/about_lab.JPG" alt="Tinkerers' Laboratory" height="492" width="800">
+<img align="middle" src="{{ site.url }}/images/about_lab.JPG" alt="Tinkerers' Laboratory" height="492" width="800">
 
 Tinkerers’ Lab (*TL*)  is a **24x7** technical facility open to all IITB students to encourage them to go beyond their curriculum and explore technology as hobby, as fun, and start tinkering, building and innovating to convert creative ideas into actual engineering products.
 

@@ -12,14 +12,14 @@ search_omit: true
 ---
 <p align="center" style="font-size:20px"><b><font size="6">Why Tinkerers’ Lab!?</font></b></p>
 <center>
-<img src="/images/availability.jpeg" alt="Availability" height="100" width="100"><br>
+<img src="{{ site.url }}/images/availability.jpeg" alt="Availability" height="100" width="100"><br>
 <p><b>Availability</b></p>
 <p>The facility is open 24x7 and is completely managed by students. So just drop by whenever you wish.</p><br>
-<img src="/images/resources.jpeg" alt="Resources" height="100" width="100">
+<img src="{{site.url}}/images/resources.jpeg" alt="Resources" height="100" width="100">
 <p><b>Resources</b></p>
 <p>TL boasts an inventory ranging from tiny resistors to sophisticated machines like CNC Machines, 3D Printer, Heavy Machines like Lathe, Milling, Drill and necessary software assistance.</p><br>
-<img src="/images/innovation.jpeg" alt="Innovation Hub" height="100" width="100">
+<img src="{{site.url}}/images/innovation.jpeg" alt="Innovation Hub" height="100" width="100">
 <p><b>Innovation Hub</b></p>
 <p>The TL environment encourages the students to go beyond their curriculum and explore technology as a hobby, as fun, and start tinkering, building and innovating to convert creative ideas into actual engineering products.</p><br>
-<img src="/images/evolution_tinkerer.jpg" alt="Innovation Hub" height="350" width="350">
+<img src="{{site.url}}/images/evolution_tinkerer.jpg" alt="Innovation Hub" height="350" width="350">
 </center>
