@@ -14,12 +14,12 @@ modified: 2014-08-08T19:44:38.564948-04:00
 		<p>TL boasts an wide inventory ranging from tiny resistors to sophisticated machines and necessary software assistance.</p>
 	</a>
 	<br>
-	<a href="/documentation">
+	<!--<a href="/documentation">
 <img src="/images/documentation.png" alt="Equipment Documentation" height="100" width="100">
 					<p><b>Equipment Documentation</b></p>
 					<p>Support documents for some of the equipments have been prepared by generous inputs of lab users, to assist other users.</p>
 	</a>	
-	<br>
+	<br>-->
 	<a href="/wishlist">
 <img src="/images/wishlist.png" alt="Wishlist" height="100" width="100">
 					<p><b>Wishlist</b></p>
