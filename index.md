@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-excerpt: "A simple and clean responsive Jekyll theme for words and photos."
+excerpt: "Eat Sleep Tinker Repeat. Welcome to site of Tinkerers' Laboratory, IIT Bombay"
 search_omit: true
 ---
 

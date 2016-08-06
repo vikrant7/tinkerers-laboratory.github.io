@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Us
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+excerpt: "Ways to reach Tinkerers' laboratory, IIT Bombay"
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
 

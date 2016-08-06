@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wishlist
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+excerpt: "Fill this form for equipments that might benifit large number people."
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
