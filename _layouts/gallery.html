@@ -3,7 +3,7 @@ layout: page
 ---
 <div class="img">  
     {% for image in page.imgs %}
-        <img alt="{{image}}" src="/{{page.folder}}/{{image}}" style="object-fit:fill;height:150;width:150"/>  
+        <img alt="{{image}}" src="{{site.url}}/{{page.folder}}/{{image}}" style="object-fit:fill;height:150;width:150"/>  
     {% endfor %}
 </div>
 {{ content }}
