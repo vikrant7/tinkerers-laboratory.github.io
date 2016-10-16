@@ -21,6 +21,7 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - thin
 
 kramdown:
   input: GFM

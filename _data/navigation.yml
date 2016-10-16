@@ -15,8 +15,8 @@
 - title: TL Talks
   url: /tl_talks/
 
-#- title: Gallery
-#  url: /gallery/
+- title: Gallery
+  url: /gallery/
 
 - title: Resources
   url: /resources/
@@ -36,5 +36,5 @@
   #  - subtitle: Feedback
   #    suburl: /feedback/
 
-- title: Search
-  url: /search/
+# - title: Search
+#   url: /search/
