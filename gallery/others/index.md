@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: Others
+title: TL Events
 excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
 folder: images/gallery
@@ -10,5 +10,3 @@ imgs:
   - "4.jpg"
   - "5.jpg"
 ---
-
-*Coming Soon!*

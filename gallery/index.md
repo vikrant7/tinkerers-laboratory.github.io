@@ -44,7 +44,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 	<center>
 	<a href="{{ site.url }}/gallery/working">
 		<img class="image" src="{{site.url}}/images/gallery/working7.jpg" >
-		<p><b>Name this one too Contains pics of people working random to XLR8</b></p>
+		<p><b>Junta Working</b></p>
 		<!-- <p>TL boasts an wide inventory ranging from tiny resistors to sophisticated machines and necessary software assistance.</p> -->
 	</a>
 	</center>
@@ -53,7 +53,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 	<center>
 	<a href="{{ site.url }}/gallery/others">
 		<img class="image" src="{{site.url}}/images/gallery/2.jpg" >
-		<p><b>Name this one too Contains inauguration team visits etc</b></p>
+		<p><b>TL events</b></p>
 		<!-- <p>TL boasts an wide inventory ranging from tiny resistors to sophisticated machines and necessary software assistance.</p> -->
 	</a>
 	</center>
