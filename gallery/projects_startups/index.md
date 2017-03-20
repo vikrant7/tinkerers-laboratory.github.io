@@ -11,5 +11,3 @@ imgs:
   - "projects4.jpg"
   - "projects5.jpg"
 ---
-
-*Coming Soon!*

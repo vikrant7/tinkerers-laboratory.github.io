@@ -10,5 +10,3 @@ imgs:
   - "tltalk3.jpg"
   - "tltalk4.jpg"
 ---
-
-*Coming Soon!*

@@ -16,5 +16,3 @@ imgs:
   - "working9.jpg"
   - "working10.jpg"
 ---
-
-*Coming Soon!*

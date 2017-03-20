@@ -7,6 +7,15 @@ modified: 2014-08-08T19:44:38.564948-04:00
 <div class="img">
 	<div>
 	<center>
+	<a href="{{ site.url }}/gallery/anniversary_inauguration">
+		<img class="image" src="{{site.url}}/images/gallery/inauguration1.jpg" >
+		<p><b>Anniversary and Inauguration</b></p>
+		<!-- <p>TL boasts an wide inventory ranging from tiny resistors to sophisticated machines and necessary software assistance.</p> -->
+	</a>
+	</center>
+	</div>	
+	<div>
+	<center>
 	<a href="{{ site.url }}/gallery/equipment">
 		<img class="image" src="{{site.url}}/images/gallery/equipments6.jpg" >
 		<p><b>Equipments</b></p>

@@ -12,5 +12,3 @@ imgs:
   - "equipments5.jpg"
   - "equipments6.jpg"
 ---
-
-*Coming Soon!*
